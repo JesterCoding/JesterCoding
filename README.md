@@ -5,7 +5,7 @@
 I am a developer with a passion for optimizing web architectures and building AI-driven solutions. Currently, I am studying Mathematics at the University of California, Berkeley. 
 
 ### 🔭 What I'm Up To
-* **Working** as a Full Stack Developer Intern at Fabric, focusing on high-traffic frontend architecture and reliable backend testing.
+* **Working** as a Full Stack Developer Intern at Fabric, focusing on [high-traffic frontend architecture](https://fabricinvest.com/) and reliable backend testing.
 * **Previously** led a team of six students as the Director of Web Development for Math4All.
 * **Researching** AI-driven diagnostics, recently building a lung cancer detection application during a Mayo Clinic Research Mentorship.
 
@@ -16,9 +16,9 @@ I am a developer with a passion for optimizing web architectures and building AI
 * **AI/ML:** PyTorch, YOLOv8, RAG, LLMs 
 
 ### 🚀 Featured Work
-* **[AI-Driven Lung Cancer Detection](#)**: Developed a diagnostic app using YOLOv8 for nodule detection and Claude v3 with RAG for treatment-plan generation, successfully eliminating hallucinations.
-* **[Autonomous FTC Car](#)**: Built logic and used PID tuning/Roadrunner in Java for a First Tech Challenge robotics car to maneuver and collect objects.
-* **[Math4All Web Platform](#)**: Developed full-stack software programs and advised on future growth for the organization's platform.
+* **[AI-Driven Lung Cancer Detection](https://www.acsef.org/copy-of-acsef-2025)**: Developed a diagnostic app using YOLOv8 for nodule detection and Claude v3 with RAG for treatment-plan generation, successfully eliminating hallucinations.
+* **[Autonomous FTC Car](https://github.com/Future14473)**: Built logic and used PID tuning/Roadrunner in Java for a First Tech Challenge robotics car to maneuver and collect objects.
+* **[Math4All Web Platform](https://www.math4all.org/)**: Developed full-stack software programs and advised on future growth for the organization's platform.
 
 ### ⚡ Outside of Code
 When I'm not programming, you can find me engaged in competitive chess, competitive math, running, or music. I have also completed expository research on Markov Chains and Geometric Theorems in Complex Analysis.
