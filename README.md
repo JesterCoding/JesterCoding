@@ -5,9 +5,9 @@
 I am a developer with a passion for optimizing web architectures and building AI-driven solutions. [cite_start]Currently, I am studying Mathematics at the University of California, Berkeley[cite: 4]. 
 
 ### 🔭 What I'm Up To
-* **Working** as a Full Stack Developer Intern at Fabric, focusing on high-traffic frontend architecture and reliable backend testing[cite: 6, 9, 10, 11].
-* **Previously** led a team of six students as the Director of Web Development for Math4All[cite: 13, 14, 16].
-* ]**Researching** AI-driven diagnostics, recently building a lung cancer detection application during a Mayo Clinic Research Mentorship[cite: 19, 22].
+* **Working** as a Full Stack Developer Intern at Fabric, focusing on high-traffic frontend architecture and reliable backend testing.
+* **Previously** led a team of six students as the Director of Web Development for Math4All.
+* ]**Researching** AI-driven diagnostics, recently building a lung cancer detection application during a Mayo Clinic Research Mentorship.
 
 ### 💻 Tech Stack
 * **Languages:** Python, C++, Java, Node 
