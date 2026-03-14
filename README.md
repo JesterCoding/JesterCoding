@@ -1,8 +1,8 @@
 # Hi, what's up!
 
-**Mathematics student at UC Berkeley & Full Stack Developer Intern at Fabric** [cite: 4, 6, 9]
+**Mathematics student at UC Berkeley & Full Stack Developer Intern at Fabric** 
 
-I am a developer with a passion for optimizing web architectures and building AI-driven solutions. [cite_start]Currently, I am studying Mathematics at the University of California, Berkeley[cite: 4]. 
+I am a developer with a passion for optimizing web architectures and building AI-driven solutions. Currently, I am studying Mathematics at the University of California, Berkeley. 
 
 ### 🔭 What I'm Up To
 * **Working** as a Full Stack Developer Intern at Fabric, focusing on high-traffic frontend architecture and reliable backend testing.
