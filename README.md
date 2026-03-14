@@ -7,7 +7,7 @@ I am a developer with a passion for optimizing web architectures and building AI
 ### 🔭 What I'm Up To
 * **Working** as a Full Stack Developer Intern at Fabric, focusing on high-traffic frontend architecture and reliable backend testing.
 * **Previously** led a team of six students as the Director of Web Development for Math4All.
-* ]**Researching** AI-driven diagnostics, recently building a lung cancer detection application during a Mayo Clinic Research Mentorship.
+* **Researching** AI-driven diagnostics, recently building a lung cancer detection application during a Mayo Clinic Research Mentorship.
 
 ### 💻 Tech Stack
 * **Languages:** Python, C++, Java, Node 
