@@ -1,6 +1,6 @@
 # Hi, what's up!
 
-**Mathematics student at UC Berkeley & Full Stack Developer Intern at Fabric** 
+**Mathematics student at UC Berkeley & Full Stack Developer Intern** 
 
 I am a developer with a passion for optimizing web architectures and building AI-driven solutions. Currently, I am studying Mathematics at the University of California, Berkeley. 
 
